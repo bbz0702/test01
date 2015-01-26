@@ -1,1 +1,2 @@
 create test repository
+该项目用于学习使用git版本控制器
